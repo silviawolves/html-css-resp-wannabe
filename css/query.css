@@ -21,12 +21,12 @@
         row-gap: 60px;
     }
 
-    .lessons .col {
-        width: 100%;
+    .card {
+        padding: 0 20px;
     }
 
-    .card {
-        padding: 0 30px;
+    .lessons .col {
+        width: 100%;
     }
 
     .steps .col {
